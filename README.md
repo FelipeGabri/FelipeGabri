@@ -62,16 +62,8 @@
 
 
 ## Status  
-<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=FelipeGabri&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=FelipeGabri&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabri&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabri&hide_border=true&layout=compact" align="left" />
+<img src="https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif" align="right" style="width: 100px" />
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
