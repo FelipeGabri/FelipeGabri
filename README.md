@@ -10,17 +10,17 @@
 
 
 
-### 📌Quem sou eu
+### 📌Quem sou eu🙋
 #### <div align="left">Me chamo Felipe Gabriel, tenho 16 anos e atualmente estou estudando para ser um possível dev 🙂 </div>  
   
 
 
 
-### 📌Aprendizagem  
+### 📌Aprendizagem📚
 - Estou aprendendo e estudando através dos cursos da [Alura](http://Alura.com.br) 💻 
   
 
-- Sempre estou procurando maneiras de estudar e evoluir 📚
+- Sempre estou procurando maneiras de estudar e evoluir 📖
   
 
 - Coloco aqui todos os meus projetos de estudo e pessoal 📝
@@ -29,7 +29,7 @@
 <br/>  
 
 
-## 📌Meus conhecimentos 
+## 📌Meus conhecimentos ⚡
 
 
 ### Frontend 
@@ -44,7 +44,7 @@
 <br/>  
 
 
-## Converse comigo 📱
+## 📌 Converse comigo 📱
 <div align="center">
 <a href="https://github.com/FelipeGabri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -61,7 +61,7 @@
 <br/>  
 
 
-## Status 📊
+## 📌Status 📊
 <img src="https://github-readme-stats.vercel.app/api?username=FelipeGabri&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 30%" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabri&hide_border=true&layout=compact" align="left" style="width: 30%" />
