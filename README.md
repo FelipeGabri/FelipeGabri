@@ -2,28 +2,28 @@
   
 <br/>
 
-## <div align="center">Olá! Seja Bem Vindo!</div>  
+## <div align="center"> 🎊 Olá! Seja Bem Vindo! 🎊 </div>  
 
 <br/>
 
 
 
-## Sobre mim  
+
 
 ### Quem sou eu
-#### <div align="left">Me chamo Felipe Gabriel, tenho 16 anos e atualmente estou estudando para ser um possível dev</div>  
+#### <div align="left">Me chamo Felipe Gabriel, tenho 16 anos e atualmente estou estudando para ser um possível dev 🙂 </div>  
   
 
 
 
 ### Aprendizagem  
-- Estou aprendendo e estudando através dos cursos da [Alura](http://Alura.com.br)  
+- Estou aprendendo e estudando através dos cursos da [Alura] 💻 (http://Alura.com.br)  
   
 
-- Sempre estou procurando maneiras de estudar e evoluir  
+- Sempre estou procurando maneiras de estudar e evoluir 📖
   
 
-- Coloco aqui todos os meus projetos de estudo e pessoal  
+- Coloco aqui todos os meus projetos de estudo e pessoal :
   
 
 <br/>  
@@ -62,8 +62,8 @@
 
 
 ## Status  
-<img src="https://github-readme-stats.vercel.app/api?username=FelipeGabri&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=FelipeGabri&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 30%" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabri&hide_border=true&layout=compact" align="left" />
-<img src="https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif" align="right" style="width: 100px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabri&hide_border=true&layout=compact" align="left" style="width: 30%" />
+<img src="https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif" align="right" style="width: 40%" />
 <br />
